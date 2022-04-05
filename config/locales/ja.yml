@@ -1,0 +1,9 @@
+ja:
+  activerecord:
+   #(この辺に他の設定値がある)
+  enums:
+    book:
+      category:
+        for_men: 男向け
+        for_women: 女向け
+        for_others: その他
