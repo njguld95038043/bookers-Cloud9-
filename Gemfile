@@ -62,3 +62,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'devise'
 gem 'dotenv-rails'
 gem 'enum_help'
+gem 'whenever', require: false
