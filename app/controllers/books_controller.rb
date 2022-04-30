@@ -5,6 +5,7 @@ class BooksController < ApplicationController
 
   def index
     @books = Book.all
+    puts "作成したキー #{ENV['SECRET_KEY']}"
   end
 
   def edit
