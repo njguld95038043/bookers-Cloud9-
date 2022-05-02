@@ -7,3 +7,7 @@ ja:
         for_men: 男向け
         for_women: 女向け
         for_others: その他
+    order:
+      payment_method:
+        credit_card: "クレジットカード"
+        transfer: "銀行振込"
