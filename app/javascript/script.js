@@ -47,3 +47,9 @@ $(function(){
       alert('通信に失敗しました。');      });
   });
 });
+
+$(document).ready(function () {
+  $('.jquery').on('click', function(){
+    $(this).css('color','red');
+  });
+});
